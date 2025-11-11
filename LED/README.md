@@ -1,3 +1,5 @@
+<img width="1916" height="913" alt="image" src="https://github.com/user-attachments/assets/6d2be22f-beb7-452d-9f0c-380fbd2f5184" />
+
 https://github.com/user-attachments/assets/a47ddf0b-eb4f-456a-a784-0af1057aab03
 
 Penjelasan Alur Kerja Task LED
@@ -22,4 +24,5 @@ Penjelasan Alur Kerja Task LED
 
 6.  Suspensi Setelah 5 Detik if (millis() - t0 > 5000) {
     vTaskSuspend(NULL); } Task berhenti sendiri setelah 5 detik.
+
 
