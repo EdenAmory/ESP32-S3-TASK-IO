@@ -22,4 +22,4 @@
 
 ## Dokumentasi
 
-* **Kode Program:** [ESP32 S3 (Nathaniel Eden Amory 3223600015)/sketch.ino](https://github.com/EdenAmory/ESP32-S3/blob/main/ESP32%20S3%20(Nathaniel%20Eden%20Amory%203223600015)/sketch.ino)
+* **Kode Program:** (https://github.com/EdenAmory/ESP32-S3-TASK-IO/blob/main/ESP32%20S3%20PERIPHERAL%20TASK/sketch.ino)
