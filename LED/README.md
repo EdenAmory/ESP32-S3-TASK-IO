@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/a47ddf0b-eb4f-456a-a784-0af1057aab03
+
 Penjelasan Alur Kerja Task LED
 
 1.  Deklarasi Pin LED #define LED_PIN 2 Pin 2 ditetapkan sebagai pin
@@ -20,3 +22,4 @@ Penjelasan Alur Kerja Task LED
 
 6.  Suspensi Setelah 5 Detik if (millis() - t0 > 5000) {
     vTaskSuspend(NULL); } Task berhenti sendiri setelah 5 detik.
+
