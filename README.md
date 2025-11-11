@@ -22,4 +22,4 @@
 
 ## Dokumentasi
 
-* **Kode Program:** (https://github.com/EdenAmory/ESP32-S3-TASK-IO/blob/main/ESP32%20S3%20PERIPHERAL%20TASK/sketch.ino)
+* **Kode Program:** https://github.com/EdenAmory/ESP32-S3-TASK-IO/tree/main/ESP32%20S3%20PERIPHERAL%20TASK
